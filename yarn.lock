@@ -8661,10 +8661,10 @@ railroad-diagrams@^1.0.0:
   resolved "https://registry.yarnpkg.com/railroad-diagrams/-/railroad-diagrams-1.0.0.tgz#eb7e6267548ddedfb899c1b90e57374559cddb7e"
   integrity sha1-635iZ1SN3t+4mcG5Dlc3RVnN234=
 
-rails-erb-loader@5.2.1:
-  version "5.2.1"
-  resolved "https://registry.yarnpkg.com/rails-erb-loader/-/rails-erb-loader-5.2.1.tgz#399b7781b88c129bc621a8256329ed2f855398e9"
-  integrity sha1-OZt3gbiMEpvGIaglYyntL4VTmOk=
+rails-erb-loader@5.5.1:
+  version "5.5.1"
+  resolved "https://registry.yarnpkg.com/rails-erb-loader/-/rails-erb-loader-5.5.1.tgz#d8e68253a8e089fa93ffc4a0d2684242338d390b"
+  integrity sha512-UvTbC5IL2rS9YWs3Vke7pBDu+VsowJohjozTjVfz4NZPFVzVMgA+JqsJNL9YfvUSJhup01NFzALerpGpzbxRBw==
   dependencies:
     loader-utils "^1.1.0"
     lodash.defaults "^4.2.0"
